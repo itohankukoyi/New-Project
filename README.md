@@ -1,2 +1,2 @@
 # New-Project
-For Coursera course
+For Coursera course (Excuse the pun!)
